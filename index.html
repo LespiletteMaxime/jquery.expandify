@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>jQuery Expandify Plugin</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<script src="jquery.expandify.js"></script>
+		<style>
+		body {
+			margin-top: 50px;
+			font-family: sans-serif;
+		}
+
+		code {
+			font-family: 'Monaco', monospace;
+			font-size: 14px;
+		}
+
+		b {
+			font-size: 20px;
+		}
+
+		textarea {
+			padding: 10px;
+			font: 300 18px/1.5em 'Open Sans', 'Helvetica Neue', sans-serif;
+			outline: none;
+		}
+
+		.text-center {
+			text-align: center;
+		}
+		</style>
+	</head>
+	<body>
+		<div class="text-center">
+			<h1>jQuery Expandify Plugin</h1>
+
+			<b>Usage:</b>
+			
+			<br><br>
+
+			<code>$('textarea').expandify(maxRows);</code>
+			<br><br>
+
+			The default <code>maxRows</code> is 5.
+			
+			<br><br>
+
+			<b>Try it:</b>
+
+			<br><br>
+
+			<textarea cols="50" placeholder="Type or paste here to expand textarea"></textarea>
+		</div>
+		<script>
+		$(function()
+		{
+			$('textarea').expandify();
+		});
+		</script>
+	</body>
+</html>

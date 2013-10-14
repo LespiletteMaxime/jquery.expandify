@@ -1,0 +1,34 @@
+{
+	"name": "expandify",
+	"version": "0.5.0",
+	"title": "jQuery Expandify plugin",
+	"description": "Super lightweight plugin to expand and contract textareas according to the height of user's input, up to a maximum number of rows",
+	"keywords": [
+		"textarea",
+		"input",
+		"form",
+		"elastic",
+		"expand",
+		"contract",
+		"resize",
+		"autosize"
+	],
+	"author": {
+		"name": "Matthew Holt",
+		"email": "mholt@users.noreply.github.com",
+		"url": "http://mwholt.com"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	],
+	"homepage":"https://github.com/mholt/jquery.expandify",
+	"docs": "https://github.com/mholt/jquery.expandify/blob/master/README.md",
+	"demo": "http://jsfiddle.net/mholt/dJWqN",
+	"download": "https://raw.github.com/mholt/jquery.expandify/master/jquery.expandify.min.js",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
