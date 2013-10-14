@@ -1,7 +1,7 @@
 Expandify jQuery Plugin
 ================
 
-Simple, light-weight, and feature-free jQuery plugin that expands and contracts textareas up to a certain height, baesd on newlines in the user's input.
+Simple, light-weight, and feature-free jQuery plugin that expands and contracts textareas up to a certain height, based on newlines in the user's input.
 
 **[jsFIDDLE DEMO](http://jsfiddle.net/mholt/dJWqN/)**
 
