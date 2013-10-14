@@ -1,5 +1,5 @@
 /*
-	jQuery Expandify Plugin
+	Expandify jQuery Plugin
 	v0.5.0
 	https://github.com/mholt/jquery.expandify
 */
