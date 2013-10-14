@@ -1,7 +1,7 @@
 {
 	"name": "expandify",
 	"version": "0.5.0",
-	"title": "jQuery Expandify plugin",
+	"title": "Expandify jQuery Plugin",
 	"description": "Super lightweight plugin to expand and contract textareas according to the height of user's input, up to a maximum number of rows",
 	"keywords": [
 		"textarea",
